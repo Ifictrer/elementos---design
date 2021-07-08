@@ -10,7 +10,7 @@
 
 ### Curiosidade: Sobre a escolha do nome e slogan
 
-<p align="justify"> Durante os brainstorms, a equipe se mantinha animada quanto às propostas e diferentes ideias e quando alguma agradava a todos algum integrante da equipe exclamava "Sensacional" pela felicidade de o jogo estar ganhando forma.</p>
+<p align="justify"> Durante a primeira fase do projeto, a equipe de criação buscava elaborar o protótipo da proposta do jogo, e sucederam-se uma série de mudanças no contexto do jogo, na busca por sua essência e aperfeiçoamento. Nos brainstorms, a equipe se mantinha animada quanto às propostas e diferentes ideias e quando alguma agradava a todos algum integrante da equipe exclamava "Sensacional" pela felicidade de o jogo estar ganhando forma.</p>
 
 <p align="justify">Portanto, no momento em que houve uma decisão sobre o jogo, houve a ideia de montar um título com esta mensagem implícita, de modo a marcar a essência das ideias no jogo. De "sensacional", tivemos sua tradução para o inglês: "Terrific". A partir dela, montamos um anagrama. E então conseguimos o nome do jogo: "Ifictrer".</p>
 
