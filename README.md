@@ -1,6 +1,6 @@
 # IFICTRER - Elementos de Design
 
-<p align="justify">O presente projeto é resultado de um Projeto Final que visava a criação de um jogo através do aprendizado obtido nas matérias técnicas do Curso Técnico de Informática, realizado no Instituto Federal de São Paulo (IFSP), Campus São Paulo, durante o 1° ano do curso. Este repositório é especificamente voltado para o armazenamento dos Elementos de Design do Jogo.</p>
+<p align="justify">O presente projeto é resultado de um Projeto Final que visava a criação de um jogo através do aprendizado obtido nas matérias técnicas do Curso Técnico de Informática, realizado no Instituto Federal de São Paulo (IFSP), Campus São Paulo, durante o 1° ano do curso. Este repositório é exclusivamente voltado para o armazenamento dos Elementos de Design do Jogo.</p>
 
 <p align="center">
 <img width='350' src='https://raw.githubusercontent.com/Ifictrer/elementos-design/main/logotipo/ifictrer-logotipo.png' alt="Foto da Equipe do Projeto"></p>
